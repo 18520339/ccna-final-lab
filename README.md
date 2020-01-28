@@ -1,5 +1,7 @@
 # CCNA Networking Lab
 > CCNA practicing in Cisco Packet Tracer
+
+## Network Model
 ![Network model](https://github.com/18520339/ccna-lab/blob/master/Network%20model.jpg)
 
 ## Requirements
